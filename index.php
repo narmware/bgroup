@@ -17,12 +17,10 @@
                 <div class="item active">
                     <img src="img/slide1.jpg" alt="slide1">
                     <div class="banner-caption pull-right">
-                        <h1>We’re Professional
-													Competitive &amp; 
-													Competent
+                        <h1>B-Group Packaging &amp; Services
 												</h1>
-                        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas venenatis.</p>
-                    </div>
+<!--                         <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas venenatis.</p>
+ -->                    </div>
                 </div>
                 <div class="item">
                     <img src="img/slide1.jpg" alt="slide2">
@@ -31,7 +29,7 @@
 													Competitive &amp; 
 													Competent
 												</h1>
-                        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas venenatis.</p>
+                       <!--  <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas venenatis.</p> -->
                     </div>
                 </div>
             </div>
@@ -238,8 +236,9 @@
             <div class="col-md-4">
                 <div class="action-serve">
                     <h3>We Serve to Meet</h3>
-                    <h4>Your Fabrication Need</h4>
-                    <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                    <h4>Your packaging needs</h4>
+                    <p>At B-Group we strive to provide with best quality packaging at most competive rates. To justify this, 
+                    here are some testimonials from our esteemed customers.</p>
                 </div>
             </div>
             <div class="col-md-8">

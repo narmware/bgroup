@@ -6,15 +6,21 @@
 							<div class="inner-content">
 								<div class="company">
 									<div class="company-description pull-left">
-										<h2>Company</h2>
-										<h3>About BGROUP</h3>
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu pretium quis sem.
+										<h2>About</h2>
+										<h3>B-Group Packaging Services</h3>
+										<p>We, <b>B-Group Packing Services</b>, are one of the renowned manufacturers and suppliers of Wooden Packaging Products. Moreover, we are also known in the industry for offering Packaging Services to our customers. Packaging boxes offered by us are highly appreciated in the market for dimensional accuracy, light weight, good load bearing capacity and high endurance. Manufactured using quality wood and other raw material, these packaging boxes can be utilized to pack goods such as medicines, engineering equipment, food products, glass &amp; fragile items.	
 										</p>
 										<p>
-										Nulla consequat massa quis enim. Donec pede justo, fringilla vel aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut  imperdiet a venenatis vitae justo. Nullam dictum felis eu pede mollis pretium integer tincidunt. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu pretium quis sem. </p>
+										We are engaged in manufacturing and supplying premium quality Wooden Packaging Boxes. Furthermore, we also offer Packaging Services to the clients. Our range encompasses <b>Plywood Box, Heavy Machine Packing, Plywood Boxes, Wooden Cases, Rubber Wood Cases, Export Packing, Wood Pallets, Pallets and Wooden Pallets</b>. Additionally, we also offer Plywood Packaging, Wooden Packing Cases, Crates Box, Inter-locking Wooden Cases, Export Packing and Export Packaging Boxes.  </p>
+
+										<p>
+											Manufactured using premium quality wood and advanced machinery, the packaging material offered by us have good load bearing capacity and are lightweight. Our <b>packaging products are appreciated for seamless finish, accurate dimensions and durability</b>. Further, the packaging services rendered by us ensure safe transportation of goods. We duly check the quality of these packaging boxes, so that we are able to ensure defect-free range to the valued clients. Customised packaging material can also be made available to suit their specific demands and choices. Owing to our client-centric approach, we have managed to become a favoured choice of customers based across the state.
+										</p>
 									</div>
 									<div class="company-thumb pull-right">
 										<img src="img/about-us.jpg" alt="">
+										<img src="img/about-us.jpg" alt="">
+
 									</div>
 								</div>
 								<div class="company-chairmen">
@@ -22,16 +28,17 @@
 										<img src="img/chairman.jpg" alt="">
 									</div>								
 									<div class="chairmen-description pull-right">
-										<h3>Message from Chairman</h3>
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu pretium quis sem.
+										<h3>Message from Director</h3>
+										<p>Progress for me has never been a dream. It has always been a distant reality and once one milestone is achieved, there is always another one waiting to be crossed. It is with this belief that I started B-Group Packaging &amp; Services. in 2017, a company that was in the business of Wooden box packaging and material suppliers. Almost instantly, B- Group. became a prominent name in its business segment, but like every entrepreneur sticks to their dream, I always wanted to push my company to more prosperous milestones. More than being a global player, I always perceived my company as a unit that could make a difference with its quality and competitively priced products. 
 										</p>
 										<p>
-										Nulla consequat massa quis enim. Donec pede justo, fringilla vel aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut  imperdiet a venenatis vitae justo. </p>
+										Overcoming challenge after challenge with the support of my brilliant team, I have been successful in bringing B-Group to a new milestone of global recognition.
+										</p>
 										<p>Thank You</p>
 										<div class="signature">
 											<img src="img/signature.png" alt="">
-											<h4>Eric Blodan</h4>
-											<p>Chairman, Steellex Inc.</p>
+											<h4>Haribhau Netake</h4>
+											<p>Managing Director, B-Group Packaging and Services</p>
 										</div>
 									</div>
 								</div>
