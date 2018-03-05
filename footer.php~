@@ -151,7 +151,7 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         <p>
-                            &copy; BGROUP <?php echo date('Y')?>. All Rights Reserved. | Design by:<br><a href="https://uicookies.com" target="_blank"> uiCookies</a> & <a href="http://narmware.com/" title="_blank">Narmware Software Solution Pvt. Ltd.</a>
+                            &copy; BGROUP <?php echo date('Y')?>. All Rights Reserved. | Design by:<a href="https://uicookies.com" target="_blank"> uiCookies</a> & <a href="http://narmware.com/" title="_blank">Narmware Software Solution Pvt. Ltd.</a>
                         </p>
                     </div>
                 </div>
