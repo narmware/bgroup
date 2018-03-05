@@ -46,7 +46,7 @@
                         <img src="img/service1.jpg" alt="">
                         <div class="service-caption">
                             <div class="service-left">
-                                <h2>Ducting</h2>
+                                <h2>Pine Wood</h2>
                                 <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             </div>
                             <div class="service-right">
@@ -60,7 +60,7 @@
                         <img src="img/service2.jpg" alt="">
                         <div class="service-caption">
                             <div class="service-left">
-                                <h2>Stacks</h2>
+                                <h2>Rubber Wood</h2>
                                 <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             </div>
                             <div class="service-right">
@@ -76,7 +76,7 @@
                         <img src="img/service3.jpg" alt="">
                         <div class="service-caption">
                             <div class="service-left">
-                                <h2>Tanks</h2>
+                                <h2>Jungle Wood</h2>
                                 <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             </div>
                             <div class="service-right">
@@ -90,7 +90,7 @@
                         <img src="img/service4.jpg" alt="">
                         <div class="service-caption">
                             <div class="service-left">
-                                <h2>Structural</h2>
+                                <h2>Board Suppliers</h2>
                                 <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             </div>
                             <div class="service-right">
@@ -115,21 +115,23 @@
                         <div class="about-us">
                             <h3>Quality</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                Quality is very important to us. We provide materials and finished goods
+                                of highest quality 
                             </p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="about-us">
-                            <h3>Experience</h3>
+                            <h3>Precision</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                Our products are machine cut and personally monitored. Ensuring 
+                                perfect precision
                             </p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="about-us">
-                            <h3>Reliable</h3>
+                            <h3>Service</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                             </p>
@@ -139,13 +141,14 @@
                         <div class="about-us">
                             <h3>Quality</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-                            </p>
+                                Quality is very important to us. We provide materials and finished goods
+                                of highest quality                            
+                                </p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="about-us">
-                            <h3>Reliable</h3>
+                            <h3>Service</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                             </p>
@@ -153,15 +156,16 @@
                     </div>
                     <div class="item">
                         <div class="about-us">
-                            <h3>Experience</h3>
+                            <h3>Precision</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                Our products are machine cut and personally monitored. Ensuring 
+                                perfect precision                           
                             </p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="about-us">
-                            <h3>Reliable</h3>
+                            <h3>Service</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                             </p>
