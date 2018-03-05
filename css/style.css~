@@ -73,7 +73,7 @@ html {
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color                      : #333;
+    color                      : #919191;
     font-weight                : 400;
     font-style                 : normal;
     font-size                  : 1rem;
@@ -193,7 +193,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color       : #333;
+    color       : #666666;
     margin      : 0;
   }
 
@@ -757,7 +757,7 @@ About-section
   font-size: 40px;
   margin: 0;
   padding: 0;
-  color: #29B6F6;
+  color: #F9C535;
 }
 
 
@@ -770,7 +770,7 @@ About-section
 }
 
 .product-item a.read-more:hover{
-  background: #29B6F6
+  background: #F9C535
 
 }
 
