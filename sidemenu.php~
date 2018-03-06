@@ -9,5 +9,9 @@
         </li>
         <li><a href="Board-Suppliers.php">Board Suppliers</a>
         </li>
+        <li><a href="angle.php">Steel Angels</a>
+        </li>
+        <li><a href="beam.php">Steel Beams</a>
+        </li>
     </ul>
 </div>
