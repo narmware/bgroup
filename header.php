@@ -166,6 +166,8 @@
                                                         </li>
                                                     </ul>
                                                 </li>
+                                                <li><a href="gallery.php">Gallery</a>
+                                                </li>
 
                                                 <li><a href="contact.php">Contact Us</a>
                                                 </li>

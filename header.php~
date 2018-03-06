@@ -156,17 +156,13 @@
                                                 </li>
                                                 <li class="dropdown"><a href="service.php">Services</a>
                                                     <ul class="dropdown-menu">
-                                                        <li><a href="tanks.php">Tanks</a>
+                                                        <li><a href="Pine-Wood.php">Pine Wood</a>
                                                         </li>
-                                                        <li><a href="stacks.php">Stacks</a>
+                                                        <li><a href="Rubber-Wood.php">Rubber Wood</a>
                                                         </li>
-                                                        <li><a href="duct.php">Ducting</a>
+                                                        <li><a href="Jungle-Wood.php">Jungle Wood</a>
                                                         </li>
-                                                        <li><a href="pipe.php">Pipe</a>
-                                                        </li>
-                                                        <li><a href="angle.php">Steel Angels</a>
-                                                        </li>
-                                                        <li><a href="beam.php">Steel Beams</a>
+                                                        <li><a href="Board-Suppliers.php">Board Suppliers</a>
                                                         </li>
                                                     </ul>
                                                 </li>
