@@ -8,12 +8,12 @@
 								<div class="contact">
 									<div class="contact-head">
 										<h2>Contact Us</h2>
-										<p></p>
 									</div>
 									<div class="contact-us">
 										<div class="row">
 											<div class="col-md-8 col-xs-12">
 												<div class="main-contact-form">
+
 													<h4>Drop us a Line</h4>
         <div class="form">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
@@ -59,15 +59,15 @@
 													<h4>Contact Address</h4>
 													<address>
 													 	<i class="fa fa-map-marker"></i>
-														Mountain Drive, Kensington,<br> Newyork, USA.
+														Alandi-Dehu Road<br> Chikhali, Pune.
 													</address>
 													<address>
 													 	<i class="fa fa-phone"></i>
-														12 345 890123<br>Mon-Fri, 9am until 6pm 
+														8888-01-9999<br>Mon-Fri, 9am until 6pm 
 													</address>
 													<address>
 													 	<i class="fa fa-envelope-o"></i>
-													 	<a href="mailto:sales@steelex.com">sales@steelex.com </a>
+													 	<a href="mailto:info@bgroup.com">info@bgroup.com </a>
 														<br>
 														We reply within 24 hours
 													</address>

@@ -8,7 +8,7 @@
 									<div class="company-description pull-left">
 										<h2>About</h2>
 										<h3>B-Group Packaging Services</h3>
-										<p>We, <b>B-Group Packing Services</b>, are one of the renowned manufacturers and suppliers of Wooden Packaging Products. Moreover, we are also known in the industry for offering Packaging Services to our customers. Packaging boxes offered by us are highly appreciated in the market for dimensional accuracy, light weight, good load bearing capacity and high endurance. Manufactured using quality wood and other raw material, these packaging boxes can be utilized to pack goods such as medicines, engineering equipment, food products, glass &amp; fragile items.	
+										<p>We, <b>B-Group Packing Services</b>, are one of the renowned manufacturers and suppliers of Wooden Packaging Products. Packaging boxes offered by us are highly appreciated in the market for dimensional accuracy, light weight, good load bearing capacity and high endurance. Manufactured using quality wood and other raw material, these packaging boxes can be utilized to pack goods such as medicines, engineering equipment, food products, glass &amp; fragile items.	
 										</p>
 										<p>
 										We are engaged in manufacturing and supplying premium quality Wooden Packaging Boxes. Furthermore, we also offer Packaging Services to the clients. Our range encompasses <b>Plywood Box, Heavy Machine Packing, Plywood Boxes, Wooden Cases, Rubber Wood Cases, Export Packing, Wood Pallets, Pallets and Wooden Pallets</b>. Additionally, we also offer Plywood Packaging, Wooden Packing Cases, Crates Box, Inter-locking Wooden Cases, Export Packing and Export Packaging Boxes.  </p>

@@ -67,7 +67,7 @@
         <ul class="sticky">
             <li>
                 <img width="32" height="32" title="" alt="" src="img-scroll/pp1.png" />
-                <p>1-800-987-654</p>
+                <p>8888-01-9999</p>
             </li>
             <li>
                 <a href="contact.php"><img width="32" height="32" title="" alt="" src="img-scroll/eev1.png" />
@@ -129,7 +129,7 @@
                                         <div class="col-md-2 col-sm-4">
                                             <div class="phone">
                                                 <p>Call us!</p>
-                                                <strong>1-800-987-654</strong>
+                                                <strong>8888-01-9999</strong>
                                             </div>
                                         </div>
 
