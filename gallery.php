@@ -101,27 +101,29 @@
 }
 .filter-button
 {
-    font-size: 18px;
+    font-weight:bold;
+    font-size: 15px;
     border: 1px solid #42B32F;
     border-radius: 5px;
     text-align: center;
-    color: #42B32F;
+    color: black;
     margin-bottom: 30px;
 
 }
 .filter-button:hover
 {
-    font-size: 18px;
+    font-weight:bold;
+    font-size: 15px;
     border: 1px solid #42B32F;
     border-radius: 5px;
     text-align: center;
-    color: #ffffff;
-    background-color: #42B32F;
+    color: black;
+    background-color: transparent;
 
 }
 .btn-default:active .filter-button:active
 {
-    background-color: #42B32F;
+    background-color: #29B6F6;
     color: white;
 }
 
