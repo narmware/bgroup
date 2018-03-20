@@ -73,7 +73,7 @@ html {
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color                      : #919191;
+    color                      : #333;
     font-weight                : 400;
     font-style                 : normal;
     font-size                  : 1rem;
@@ -193,7 +193,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color       : #666666;
+    color       : #333;
     margin      : 0;
   }
 
@@ -311,7 +311,7 @@ button:focus{
  Navigation  bar Style
 -----------------------------*/
 .main-nav-bar{
-  background: #55595d;
+  background: #60AFFE;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color:transparent;
@@ -395,7 +395,7 @@ Dropdown menu style
 }
 .main-nav .dropdown-menu{
     min-width:250px;
-    background: #55595d;
+    background: #60AFFE;
     border-radius: 0;
     left: 0px !important;
     margin-top: 0;
@@ -415,7 +415,7 @@ Dropdown menu style
   display: block;
 }
 .main-nav .dropdown-menu li a{
-    color: #999;
+    color: rgba(255,255,255, .8);
     display: inline-block;
     padding: 8px 30px;
 }
@@ -438,7 +438,7 @@ Dropdown menu style
     height:50px;
     border: 0px;
     border-radius: 0px;
-    background: rgba(0,0,0,.5);
+    background: rgba(255,255,255, .8);
     padding: 0 60px 0 20px;
 }
 
@@ -757,7 +757,7 @@ About-section
   font-size: 40px;
   margin: 0;
   padding: 0;
-  color: #F9C535;
+  color: #29B6F6;
 }
 
 
@@ -770,7 +770,7 @@ About-section
 }
 
 .product-item a.read-more:hover{
-  background: #F9C535
+  background: #29B6F6
 
 }
 
@@ -879,7 +879,7 @@ About-section
     -moz-box-shadow: 0px 8px 20px rgba(85, 89, 93,0.2);
   }
   .action-serve{
-    background: #55595d;
+    background: #60AFFE;
     padding:3.571em 4.429em 2.143em 2.143em;
   }
  .action-serve h3{
@@ -993,12 +993,13 @@ About-section
 .footer-section{
     margin-bottom:40px;   
     padding:40px 40px 20px;
-    background: #55595d;
+    background: #60AFFE;
+    
 }
 
 
 .footer-section a:hover{
-  color: #29B6F6;
+  color: black;
 }
 
 .footer-top h4{
@@ -1006,7 +1007,7 @@ About-section
   margin-bottom: 1.667em;
 }
 .footer-top p{
-  color:rgba(255, 255, 255, .5);
+  color:rgba(255, 255, 255, .1);
 }
 .footer-top .about a{
   color:#ffffff;
@@ -1075,6 +1076,7 @@ About-section
 
 .footer-social{
   text-align: right;
+    
 }
 .footer-social ul li{
   display:inline-block;
@@ -1085,7 +1087,7 @@ About-section
   padding-right:2.143em;
 }
 .footer-social ul li a:hover{
-  color:#ffffff;
+  color:black;
 }
 .footer-social ul li a i{
   padding-right:.825em;

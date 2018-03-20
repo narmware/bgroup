@@ -1,6 +1,6 @@
 <?php
     $service=1;
-    $title="Pine Wood";
+    $title="Pine Wood.php";
     include "header.php";
 ?>
 

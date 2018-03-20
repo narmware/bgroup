@@ -5,7 +5,7 @@
         </li>
         <li <?php if($title=="Rubber Wood") echo "class='active'";?>><a href="Rubber-Wood.php">Rubber Wood</a>
         </li>
-        <li <?php if($title=="Plyood Suppliers") echo "class='active'";?>><a href="Plywood.php">Plywood Suppliers</a>
+        <li <?php if($title=="Plywood Suppliers") echo "class='active'";?>><a href="Plywood.php">Plywood Suppliers</a>
         </li>
         <li <?php if($title=="Board Suppliers") echo "class='active'";?>><a href="Board-Suppliers.php">Board Suppliers</a>
         </li>

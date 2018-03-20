@@ -415,7 +415,7 @@ Dropdown menu style
   display: block;
 }
 .main-nav .dropdown-menu li a{
-    color: #999;
+    color: rgba(255,255,255, .8);
     display: inline-block;
     padding: 8px 30px;
 }
@@ -438,7 +438,7 @@ Dropdown menu style
     height:50px;
     border: 0px;
     border-radius: 0px;
-    background: rgba(0,0,0,.5);
+    background: rgba(255,255,255, .8);
     padding: 0 60px 0 20px;
 }
 
@@ -994,11 +994,12 @@ About-section
     margin-bottom:40px;   
     padding:40px 40px 20px;
     background: #55595d;
+    
 }
 
 
 .footer-section a:hover{
-  color: #29B6F6;
+  color: black;
 }
 
 .footer-top h4{
@@ -1006,7 +1007,7 @@ About-section
   margin-bottom: 1.667em;
 }
 .footer-top p{
-  color:rgba(255, 255, 255, .5);
+  color:rgba(255, 255, 255, .1);
 }
 .footer-top .about a{
   color:#ffffff;
@@ -1075,6 +1076,7 @@ About-section
 
 .footer-social{
   text-align: right;
+    
 }
 .footer-social ul li{
   display:inline-block;
@@ -1085,7 +1087,7 @@ About-section
   padding-right:2.143em;
 }
 .footer-social ul li a:hover{
-  color:#ffffff;
+  color:black;
 }
 .footer-social ul li a i{
   padding-right:.825em;

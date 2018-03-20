@@ -12,7 +12,7 @@
 	    $subjectus='Enquri From Website ';
 	    $usname=$_POST['name'];
 
-	    $msgus="Name: ".$_POST['name']."<br>Email: ".$_POST['email']."<br>Mobile: ".$_POST['mob']."<br>Subject: ".$_POST['sub']."<br>Enquiry: ".$_POST['message']."<br><br><br><hr>";
+	    $msgus="Company Name: ".$_POST['cname']."<br>Name: ".$_POST['name']."<br>Email: ".$_POST['email']."<br>Mobile: ".$_POST['mob']."<br>Subject: ".$_POST['sub']."<br>Enquiry: ".$_POST['message']."<br><br><br><hr>";
 	    //$email='sales@accuintelmarketresearch.com';//$_POST[''];
         $emailus="sysuraj13@gmail.com";
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
