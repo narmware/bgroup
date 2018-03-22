@@ -13,28 +13,28 @@
 									<div class="col-md-9">
 										<div class="single-description">
 											<h1>Board Suppliers</h1>
-											<img src="img/pipe.jpg" alt="">
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme areas. Monotonectally empower innovative users without state of the art sources. Energistically fabricate fully tested markets via covalent functionalities. Assertively utilize 2.0 leadership and interoperable relationships.</p>
+											<img src="img/particle3.jpg" alt="" width="100%" >
+											<p>Particle Boards are a relatively new type of engineered wood product that are made from glueing together small chips and saw-dust and firmly pressing them together to make boards or sheets. With particle board furniture becoming more commonly available in the market it is useful to know how it compares with other types of engineered woods such as plywood and with solid wood.
+											</p>
 
-											<p>Quickly visualize long-term high-impact supply chains through vertical expertise. Dynamically impact low-risk high-yield niche markets for clicks-and-mortar growth strategies. Dynamically impact leveraged innovation with granular networks. Seamlessly morph an expanded array of e-tailers after innovative bandwidth. Energistically formulate emerging information after virtual internal or "organic" sources.
+											<h2>Low Cost</h2>
+											<p>The main advantage of particle board over solid wood or plywood is that its cost is very low. Compared to plywood furniture of similar dimensions, particle board furniture costs less than half. This low cost of course comes at a price, because particle boards are not as durable as plywood or solid wood.
+											</p>
 
-											Credibly conceptualize maintainable.
+											<h2>Ready-made furniture</h2>
+											<p>Particle boards are machine manufactured to desired dimensions, and thus standard pieces of furniture can be mass-produced using these boards. This further brings down the costs since there is no carpenter work involved. This also means ready-to-buy products for customers with zero waiting time. 
 											</p>
-											<h2>Hi-Performance</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+
+											<h2>Pre-laminated boards</h2>
+											<p>A thin layer of lamination (decorative laminate) is usually glued over the surface of the particle boards at the time they are manufactured. Such boards are called pre-laminated boards. Lamination increases the beauty as well as the durability of the board to some extent. 
 											</p>
-											<h2>Pure Steel</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+											<p>
+												On the other hand, when customers opt for plywood furniture they also have to separately select and purchase decorative laminate sheets that will be glued over the plywood sheets. This further increases the overall cost of the custom-made plywood furniture being made.
 											</p>
-											<h2>Antifungal Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+											<h2>Light-weight:</h2>
+											<p>Particle boards are very light in weight, and hence furniture made from these boards is relatively easy to transport and move around. However this while this can be said to be an advantage for some people, it also is an indicator of an important drawback which is that the board is not as strong as other types of wood. A general rule of thumb when it comes to selecting woods is that the denser the wood the stronger it is. And denser usually also means heavier weight. This is why the solid wood furniture that lasts for several years is so heavy. 
 											</p>
-											<h2>Sun Heat Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
-											<h2>Disaster Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
+										
 										</div>
 									</div>
 								</div>

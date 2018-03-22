@@ -13,29 +13,31 @@
 									<div class="col-md-9">
 										<div class="single-description">
 											<h1>Rubber Wood</h1>
-											<img src="img/beam.jpg" alt="">
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme areas. Monotonectally empower innovative users without state of the art sources. Energistically fabricate fully tested markets via covalent functionalities. Assertively utilize 2.0 leadership and interoperable relationships.</p>
+											<img src="img/rubber_wood.jpeg" alt="">
+											<p>Rubberwood is also known as plantation hardwood, parawood, or "Hevea".Although it had been used on a small scale before, its use for furniture making has become much more common in recent decades with the development of chemical treatments to protect the wood against fungal and insect attacks. There are extensive rubber plantations with mature trees, especially in southeast Asia; the earlier practice was to burn the tree at the end of its latex-producing cycle.
+											</p>
+											<p>
+											Currently, rubber plantation trees are generally harvested for wood after they complete the latex producing cycle, when they are 25 to 30 years old. When the latex yields become extremely low, the trees are then felled, and new trees are usually planted. This makes rubberwood 'eco-friendly' in that the wood is harvested from a renewable source.
+											</p>
+
+											<h2>Durability</h2>
+											<p>
+												One of the biggest benefits of Rubberwood is its durability. Rubberwood has a dense grain character when compared to other types of wood. Furniture made from Rubberwood is not as prone to shrinkage or to warping as other types of material.
+											</p>
 
 											<p>
-												Quickly visualize long-term high-impact supply chains through vertical expertise. Dynamically impact low-risk high-yield niche markets for clicks-and-mortar growth strategies. Dynamically impact leveraged innovation with granular networks. Seamlessly morph an expanded array of e-tailers after innovative bandwidth. Energistically formulate emerging information after virtual internal or "organic" sources.
+												Despite its name, it is considered a hard wood, similar to ash or maple. It handles many different types of manufacturing well, which means it is particularly useful in the creation of more complex or artistic furniture pieces. This makes it appealing to designers who are looking for something a little bit different to decorate a living space.
+											</p>
+		
+											<h2>Eco-Friendliness</h2>
+											<p>
+												Another one of the big benefits of Rubberwood is that compared to many other types of woods used in manufacturing furniture, it is relatively eco-friendly. This is because most Rubberwood is created as a part of the latex manufacturing process. Latex is derived from the sap of the tree that produces Rubberwood. It is only after a tree has stopped producing the sap used in the creation of latex and dies naturally that the tree is harvested for its wood. 
+											</p>
 
-												Credibly conceptualize maintainable.
+											<p>
+												Despite its name, it is considered a hard wood, similar to ash or maple. It handles many different types of manufacturing well, which means it is particularly useful in the creation of more complex or artistic furniture pieces. This makes it appealing to designers who are looking for something a little bit different to decorate a living space.
 											</p>
-											<h2>Hi-Performance</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
-											<h2>Pure Steel</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
-											<h2>Antifungal Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
-											<h2>Sun Heat Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
-											<h2>Disaster Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
+
 										</div>
 									</div>
 								</div>

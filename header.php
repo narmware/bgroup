@@ -14,15 +14,16 @@
 	    Basic
 	    ========================================== -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Bgroup</title>
-    <meta name="keywords" content="HTML5, CSS3, responsive, Template" />
-    <meta name="author" content="Cloud Software" />
-    <meta name="description" content="Metal- Responsive HTML5/CSS3 Template" />
+    <title>Bhagyashree Packaging | Pune | Pimpri Chinchwad</title>
+    <meta name="keywords" content="Packaging, Wooden-box, Heavy-machinery-packaging, Plywood, Pinewood, Covers, Pune, India, Maharshtra" />
+    <meta name="author" content="Bhagyashree Packaging, Pune" />
+    <meta name="description" content="Heavy machinery pakaging, Wooden box, Plywood and Pinewood, Streth Wrappinhlashing Belt buckle and all type of covers" />
 
     <!-- =========================================
 	    Mobile Configurations
 	    ========================================== -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-
+    scale=1.0 user-scalable=no" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
@@ -121,8 +122,9 @@
                                         <div class="col-md-6 col-sm-5">
                                             <div class="location">
 
-                                                <p>8901 Marmora Road
-                                                    <br> Glasgow, DO4 89GR.</p>
+                                                <p>Gate- no 1613, Patil nagar, Dehu-Alandi road,
+                                                    <br>Chikhali, near Rustic Paradise
+                                                    <br>Pune-411062</p>
                                             </div>
 
                                         </div>
@@ -130,6 +132,7 @@
                                             <div class="phone">
                                                 <p>Call us!</p>
                                                 <strong>8888-01-9999</strong>
+                                                <strong>9850-61-1407</strong>
                                             </div>
                                         </div>
 
