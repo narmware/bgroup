@@ -1274,6 +1274,11 @@ About-section
   margin-bottom:2em;
 }
 
+.single-description img{
+    height:450px !important;
+    width:auto !important;
+
+}
 /*-------------------------------------------------
   About us style
 ---------------------------------------------*/

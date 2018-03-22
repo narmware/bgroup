@@ -10,5 +10,5 @@
 
 
 <?php
-    include "footer.phps";
+    include "footer.php";
 ?>

@@ -1,6 +1,6 @@
 <?php
     $service=1;
-    $title="Pine Wood.php";
+    $title="Pine Wood";
     include "header.php";
 ?>
 
@@ -13,29 +13,27 @@
 									<div class="col-md-9">
 										<div class="single-description">
 											<h1>Pine Wood</h1>
-											<img src="img/angle.jpg" alt="">
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme areas. Monotonectally empower innovative users without state of the art sources. Energistically fabricate fully tested markets via covalent functionalities. Assertively utilize 2.0 leadership and interoperable relationships.</p>
+											<img src="img/pinewood1.jpg" alt="">
+											<p>Pine furniture is less expensive than many other wood pieces, especially if you buy it unfinished, which makes it a very popular choice. It can be painted, stained or covered with a clear coat of varnish. The wood’s noticeable grain and knots give each piece a unique look. Pine furniture blends well with other woods, allowing the buyer to mix and match pieces. Pine furniture adds coziness to a room, and the wood is ideal for rustic or English Country decor. Pine’s coloring keeps bookshelves, armoires, dressers and beds from appearing heavy and stuffy.
+											</p>
 
 											<p>
-												Quickly visualize long-term high-impact supply chains through vertical expertise. Dynamically impact low-risk high-yield niche markets for clicks-and-mortar growth strategies. Dynamically impact leveraged innovation with granular networks. Seamlessly morph an expanded array of e-tailers after innovative bandwidth. Energistically formulate emerging information after virtual internal or "organic" sources.
-
-												Credibly conceptualize maintainable.
+												Unfinished pine furniture, which can be personalized by painting or stenciling, allows great flexibility in a child’s room. The furniture can be refinished and repainted as the child’s tastes changes.
 											</p>
-											<h2>Hi-Performance</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+											
+											<h2>What to look for?</h2>
+											<p>The quality of pine furniture can vary widely. Although pine is more pliable than most hardwoods, pieces can last for decades if it is constructed well. 
 											</p>
-											<h2>Pure Steel</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+												<p>
+												Knots should be expected and can be attractive in a piece of furniture, but watch out for knots that create a hole in the furniture. Too many knots can weaken the piece. Although pine is a sturdy wood, it can easily be dented and scratched. Like all woods, pine will warp when exposed to constant humidity or moisture. Well-crafted pine will be smooth and the walls plumb. The fasteners on the drawer should create a snug fit between the front and rest of the drawer. Drawers should pull out smoothly and maintain their shape when twisted.
 											</p>
-											<h2>Antifungal Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+											<h2>Pros</h2>
+											<p> It's low-cost, and it takes paint well, so it's great for kids' furniture. (The same holds true for birch and poplar.) Pine develops a nice, rustic patina from age and use, and it resists shrinking and swelling. 
 											</p>
-											<h2>Sun Heat Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
+											<h2>Cons</h2>
+											<p>It's a softwood, so it's prone to scratches and dents. 
 											</p>
-											<h2>Disaster Protected</h2>
-											<p>Synergistically syndicate fully tested experiences without web-enabled portals. Appropriately transform economically sound collaboration and idea-sharing via go forward strategic theme 
-											</p>
+											
 										</div>
 									</div>
 								</div>
